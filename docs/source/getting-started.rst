@@ -156,7 +156,7 @@ Setting up your first EPM Project
 ---------------------------------
 
 With EPM, you don't have to worry about remembering all the particular flags to
-sent to ``eta``. You can simply specify what you want in a human-readable format
+send to ``eta``. You can simply specify what you want in a human-readable format
 called Cabal. To learn more about the specification file format which is also used
 in the Haskell ecosystem, read
 `this <https://www.haskell.org/cabal/users-guide/developing-packages.html>`_ guide.
